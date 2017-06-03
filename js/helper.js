@@ -7,7 +7,6 @@ Don't worry, you'll learn what's going on in this file throughout the course. Yo
 Cameron Pittman
 */
 
-
 /*
 These are HTML strings. As part of the course, you'll be using JavaScript functions
 replace the %data% placeholder text you see in them.
@@ -243,7 +242,7 @@ Uncomment the code below when you're ready to implement a Google Map!
 
 // Vanilla JS way to listen for resizing of the window
 // and adjust map bounds
-//window.addEventListener('resize', function(e) {
-  //Make sure the map bounds get updated on page resize
+// window.addEventListener('resize', function(e) {
+//   Make sure the map bounds get updated on page resize
 //  map.fitBounds(mapBounds);
-//});
+// });
